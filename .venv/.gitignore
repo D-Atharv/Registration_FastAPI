@@ -1,0 +1,12 @@
+# created by virtualenv automatically
+
+.env
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env.local
+.env.development
+.env.test
+.env.production
